@@ -2,7 +2,7 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+### Getting Started start hook
 
 There are two methods for getting started with this repo.
 
